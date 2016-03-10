@@ -1,7 +1,8 @@
 /* 
  * tsh - A tiny shell program with job control
- * 
- * <Name:Jay Shah; Email-id:201401241@daiict.ac.in>
+ *@uthor:Jay Shah
+ *jaygshah22@gmail.com 
+ *<Email-id:201401241@daiict.ac.in>
  */
 
 #include <stdio.h>
